@@ -45,7 +45,7 @@
     }
 
     obj1.g = '77';
-    console.log(obj1);
+    console.log(obj1); 
 
 
     const EmptyObj : Record<string,unknown> ={}
